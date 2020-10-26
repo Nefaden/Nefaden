@@ -15,6 +15,24 @@
 
 [![Spotify](https://spotify-readme-playing.vercel.app/api/spotify)](https://open.spotify.com/user/365d395e0b9844f88779ee0467ab312d)
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">Don't forget to follow me !<br><br>
+  ![Twitter Follow](https://img.shields.io/twitter/follow/YannDurand11?color=blue&logo=twitter&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/nefaden?color=blue&logo=github&style=for-the-badge)
+</p>
+  </td>
+  </table>
+
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+
 ### Connect with me:
 
 [<img align="left" alt="nefaden | Twitter" width="22px" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
