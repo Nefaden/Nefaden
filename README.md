@@ -14,8 +14,8 @@
 ### Connect with me:
 
 [<img width="34px" align="left" alt="nefaden | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
-[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
+[<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 <!-- discord: <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
 slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 
@@ -42,10 +42,11 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="Kotlin" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>>
+<img align="left" alt="Kotlin" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" alt="Swift" height="26" src="https://img.icons8.com/fluent/48/000000/swift.png"/>
 <img align="left" alt="Python" height="26" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="SQL" height="26" src="https://img.icons8.com/nolan/64/sql.png"/>
@@ -59,7 +60,6 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 <code><img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/></code>
 
 <br />
-
 
 ## :zap: GitHub Stats and top languages
 
