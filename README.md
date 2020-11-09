@@ -29,8 +29,7 @@
 
 Actually Playing | Public Playlists
 :---------------------:|----------     
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden) | [playlist chill&relax][spotify_chill&relax][playlist Metal][spotify_metal]
-[playlist WoW's OST][spotify_wowost] <br />
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden) | [playlist chill&relax][spotify_chill&relax] <br />[playlist Metal][spotify_metal] <br />[playlist WoW's OST][spotify_wowost] <br />
 
 <!--
 <table width="100%"> 
