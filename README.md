@@ -29,6 +29,10 @@ t### Hi there, I'm Yann Durand - aka [Nefaden][website] 👋
 
 <table width="100%"> 
   <tr>
+    <td width="50%"><b>Actually Playing<b></td>
+    <td width="50%"><b>Pulbic Playlists<b></td>
+  </tr>
+  <tr>
   <td width="70%">
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden)
