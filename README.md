@@ -11,17 +11,20 @@
 - 🥅  2021 Goals: Contribute more to Open Source projects, finish my sandwich course and start my freelance activity
 - ⚡ Other facts: I'm playin WoW since seven, I love challenges but now, I'm focusing on development in my free time
 
+<br />
+
 ### Connect with me:
 
 [<img width="34px" align="left" alt="nefaden | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-<!-- discord: <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
-slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
+[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/youtube.png" />][youtube]
+[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
+[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
 
 <br />
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 <table width="100%"> 
   <tr>
@@ -31,17 +34,16 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 
   </td>
   <td>
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden/playlists)
-
+  <ul>
+    <li>[playlist chill&relax][spotify_chill&relax]</li>
+    <li>[playlist Metal][spotify_metal]</li>
+    <li>[playlist WoW's OST][spotify_wowost]</li>
   </td>
 </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
-<br />
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
@@ -61,17 +63,16 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 
 <br />
 
-## :zap: GitHub Stats and top languages
+## :zap: GitHub Stats and skills
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nefaden&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefaden&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nefaden&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ### WakaTime
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nefaden&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nefaden&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -87,7 +88,10 @@ TODO this year !
 [twitter]: https://twitter.com/YannDurand11 
 [instagram]: https://www.instagram.com/nefa_yann/ 
 [linkedin]: https://www.linkedin.com/in/yann-durand-12456212a/ 
-[discord]: https://
+[discord]: https://discord.gg/VDC6araa
 [slack]: https://
-[youtube]: https://
+[youtube]: https://www.youtube.com/channel/UCwl2xhVlp7POMznBOgcedww
 [website]: https://nefaden.github.io/
+[spotify_chill&relax]: https://open.spotify.com/playlist/3SWZ5oFiTyHmf0dc2BDOQp
+[spotify_metal]: https://open.spotify.com/playlist/4fPi4z0xDEeuLOroXqGbK6
+[spotify_wowost]: https://open.spotify.com/playlist/3smqCGfMEgIVio0mHEC1a3
