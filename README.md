@@ -3,8 +3,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/YannDurand11?color=blue&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/nefaden?color=blue&logo=github&style=for-the-badge)
 
-## I'm a Developer, Gamer and Student !
-### Who am I ? :sparkler:
+## :sparkler: I'm a Developer, Gamer and Student !
+### Who am I ? 
 - :chart_with_upwards_trend: I'm an IoT Developper @ [4CAD][4CAD]
 - 🌱  I’m currently learning Swift and Python
 - 👯  I’m looking to being freelance developper (fullstack and devops)
@@ -13,7 +13,7 @@
 
 <br />
 
-## Connect with me: :stars: 
+## :stars: Connect with me:  
 
 [<img width="34px" align="left" alt="nefaden | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
@@ -25,10 +25,10 @@
 <br />
 <br />
 
-## Spotify Playing 🎧
+## 🎧 Spotify Playing 
 
 Actually Playing | Public Playlists
-:--------------------------:|:----------------:
+--------------------------|----------------
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden) | [playlist chill&relax][spotify_chill&relax] <br />[playlist Metal][spotify_metal] <br />[playlist WoW's OST][spotify_wowost] <br />
 
 <!--
