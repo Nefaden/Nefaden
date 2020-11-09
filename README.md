@@ -13,7 +13,7 @@
 
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [<img width="34px" align="left" alt="nefaden | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
@@ -36,9 +36,9 @@
   </td>
   <td>
 
-  [playlist chill&relax][spotify_chill&relax]
-  [playlist Metal][spotify_metal]
-  [playlist WoW's OST][spotify_wowost]
+  [playlist chill&relax][spotify_chill&relax] <br />
+  [playlist Metal][spotify_metal] <br />
+  [playlist WoW's OST][spotify_wowost] <br />
 
   </td>
 </table>
@@ -47,7 +47,7 @@
 
 <br />
 
-## Languages and Tools:
+##  Languages and Tools:
 
 <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
