@@ -34,10 +34,11 @@
 
   </td>
   <td>
-  <ul>
-    <li>[playlist chill&relax][spotify_chill&relax]</li>
-    <li>[playlist Metal][spotify_metal]</li>
-    <li>[playlist WoW's OST][spotify_wowost]</li>
+    <ul>
+      <li>[playlist chill&relax][spotify_chill&relax]</li>
+      <li>[playlist Metal][spotify_metal]</li>
+      <li>[playlist WoW's OST][spotify_wowost]</li>
+    </ul>
   </td>
 </table>
 
