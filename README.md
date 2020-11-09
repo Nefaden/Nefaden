@@ -34,18 +34,19 @@ Actually Playing | Public Playlists
 <!--
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="70%">
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden)
 
   </td>
-  <td>
+  <td width="30%">
 
   [playlist chill&relax][spotify_chill&relax] <br />
   [playlist Metal][spotify_metal] <br />
   [playlist WoW's OST][spotify_wowost] <br />
 
   </td>
+  </tr>
 </table>
 
 Languages | Tools
@@ -65,8 +66,8 @@ Languages | Tools
     <td width="50%"><b>Languages<b></td>
     <td width="50%"><b>Tools<b></td>
   </tr>
-  </tr>
-    <td width="50%">
+  <tr>
+    <td width="40%">
       <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
       <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
       <img align="left" alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -75,7 +76,7 @@ Languages | Tools
       <img align="left" alt="Python" height="26" src="https://img.icons8.com/color/48/000000/python.png"/>
       <img align="left" alt="SQL" height="26" src="https://img.icons8.com/nolan/64/sql.png"/>
     </td>
-    <td width=50%">
+    <td width=60%">
       <img align="left" alt="MySQL" height="26" src="https://img.icons8.com/color/48/000000/mysql.png"/>
       <img align="left" alt="PostgreSQL" height="26" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
       <img align="left" alt="MongoDB" height="26" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
