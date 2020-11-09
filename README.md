@@ -20,16 +20,20 @@
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
   </td>
-  </table>
+  <td>
+    add some playlist's links
+  </td>
+</table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
 ### Connect with me:
 
-[<img align="left" alt="nefaden | Twitter" width="22px" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nefaden | LinkedIn" width="22px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nefaden | Instagram" width="22px" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img width="34px" align="left" alt="nefaden | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
+[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
+<!-- discord: <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/>
+slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 <br />
 
 ### Languages and Tools:
@@ -46,10 +50,37 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<code>
-  <img height="20" src="./assets/languages/icons8-typescript.svg">
-  <img height="20" src="./assets/languages/icons8-javascript.svg">
-</code>
+<table width="100%"> 
+  <tr>
+    <td width="50%"><b>Languages</b></td>
+    <td width="50%"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <code>
+        <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+        <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+        <img align="left" alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+        <img align="left" alt="Kotlin" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+        <img align="left" alt="Swift" height="26" src="https://img.icons8.com/fluent/48/000000/swift.png"/>
+        <img align="left" alt="Python" height="26" src="https://img.icons8.com/color/48/000000/python.png"/>
+        <img align="left" alt="SQL" height="26" src="https://img.icons8.com/nolan/64/sql.png"/>
+      </code>
+    </td>
+    <td width="50%">
+      <code>
+        <img align="left" alt="MySQL" height="26" src="https://img.icons8.com/color/48/000000/mysql.png"/>
+        <img align="left" alt="PostgreSQL" height="26" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+        <img align="left" alt="MongoDB" height="26" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+        <img align="left" alt="Docker" height="26" src="https://img.icons8.com/color/48/000000/docker.png"/>
+        <img align="left" alt="Kubernetes" height="26" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+        <img align="left" alt="GitlabCI" height="26" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+        <img align="left" alt="DroneCI" height="26" src="./assets/tools/drone.svg"/>
+        <img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/>
+      </code>
+    </td>
+  </tr>
+</table>
 
 <br />
 
