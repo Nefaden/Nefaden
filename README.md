@@ -4,16 +4,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/nefaden?color=blue&logo=github&style=for-the-badge)
 
 ## I'm a Developer, Gamer and Student !
-### Who am I ?
-- I'm an IoT Developper @ [4CAD][4CAD]
+### Who am I ? :sparkler:
+- :chart_with_upwards_trend: I'm an IoT Developper @ [4CAD][4CAD]
 - 🌱  I’m currently learning Swift and Python
 - 👯  I’m looking to being freelance developper (fullstack and devops)
-- 🥅  2021 Goals: Contribute more to Open Source projects, finish my sandwich course and start my freelance activity
-- ⚡ Other facts: I'm playin WoW since seven, I love challenges but now, I'm focusing on development in my free time
+- :unlock:  2021 Goals: Contribute more to Open Source projects, finish my sandwich course and start my freelance activity
+- :zap: Other facts: I'm playin WoW since seven, I love challenges but now, I'm focusing on development in my free time
 
 <br />
 
-## Connect with me:
+## Connect with me: :stars: 
 
 [<img width="34px" align="left" alt="nefaden | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
@@ -28,7 +28,7 @@
 ## Spotify Playing 🎧
 
 Actually Playing | Public Playlists
-:---------------------:|----------     
+:--------------------------:|:----------------:
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden) | [playlist chill&relax][spotify_chill&relax] <br />[playlist Metal][spotify_metal] <br />[playlist WoW's OST][spotify_wowost] <br />
 
 <!--
@@ -53,7 +53,7 @@ Actually Playing | Public Playlists
 
 <br />
 
-##  Languages and Tools:
+## :books: Languages and Tools: :wrench:
 
 <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
