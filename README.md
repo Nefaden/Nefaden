@@ -45,8 +45,6 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
   <img align="left" alt="Swift" height="26" src="https://img.icons8.com/fluent/48/000000/swift.png"/>
   <img align="left" alt="Python" height="26" src="https://img.icons8.com/color/48/000000/python.png"/>
   <img align="left" alt="SQL" height="26" src="https://img.icons8.com/nolan/64/sql.png"/>
-</code>
-<code>
   <img align="left" alt="MySQL" height="26" src="https://img.icons8.com/color/48/000000/mysql.png"/>
   <img align="left" alt="PostgreSQL" height="26" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img align="left" alt="MongoDB" height="26" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
