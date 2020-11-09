@@ -37,34 +37,25 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 <br />
 
 ### Languages and Tools:
-
-<table width="100%"> 
-  <tr>
-    <td width="50%"><b>Languages</b></td>
-    <td width="50%"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td width="50%">
-        <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-        <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-        <img align="left" alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-        <img align="left" alt="Kotlin" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-        <img align="left" alt="Swift" height="26" src="https://img.icons8.com/fluent/48/000000/swift.png"/>
-        <img align="left" alt="Python" height="26" src="https://img.icons8.com/color/48/000000/python.png"/>
-        <img align="left" alt="SQL" height="26" src="https://img.icons8.com/nolan/64/sql.png"/>
-    </td>
-    <td width="50%">
-        <img align="left" alt="MySQL" height="26" src="https://img.icons8.com/color/48/000000/mysql.png"/>
-        <img align="left" alt="PostgreSQL" height="26" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-        <img align="left" alt="MongoDB" height="26" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-        <img align="left" alt="Docker" height="26" src="https://img.icons8.com/color/48/000000/docker.png"/>
-        <img align="left" alt="Kubernetes" height="26" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-        <img align="left" alt="GitlabCI" height="26" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
-        <img align="left" alt="DroneCI" height="26" src="./assets/tools/drone.svg"/>
-        <img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/>
-    </td>
-  </tr>
-</table>
+<code>
+  <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img align="left" alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img align="left" alt="Kotlin" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img align="left" alt="Swift" height="26" src="https://img.icons8.com/fluent/48/000000/swift.png"/>
+  <img align="left" alt="Python" height="26" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img align="left" alt="SQL" height="26" src="https://img.icons8.com/nolan/64/sql.png"/>
+</code>
+<code>
+  <img align="left" alt="MySQL" height="26" src="https://img.icons8.com/color/48/000000/mysql.png"/>
+  <img align="left" alt="PostgreSQL" height="26" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img align="left" alt="MongoDB" height="26" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img align="left" alt="Docker" height="26" src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img align="left" alt="Kubernetes" height="26" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+  <img align="left" alt="GitlabCI" height="26" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+  <img align="left" alt="DroneCI" height="26" src="./assets/tools/drone.svg"/>
+  <img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/>
+</code>
 
 <br />
 
