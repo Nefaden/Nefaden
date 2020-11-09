@@ -27,11 +27,6 @@ t### Hi there, I'm Yann Durand - aka [Nefaden][website] 👋
 
 ## 🎧 Spotify Playing 
 
-Actually Playing | Public Playlists
---------------------------|----------------
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden) | [playlist chill&relax][spotify_chill&relax] <br />[playlist Metal][spotify_metal] <br />[playlist WoW's OST][spotify_wowost] <br />
-
-<!--
 <table width="100%"> 
   <tr>
   <td width="70%">
@@ -49,6 +44,11 @@ Actually Playing | Public Playlists
   </tr>
 </table>
 
+<!--
+Actually Playing | Public Playlists
+--------------------------|----------------
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/nefaden) | [playlist chill&relax][spotify_chill&relax] <br />[playlist Metal][spotify_metal] <br />[playlist WoW's OST][spotify_wowost] <br />
+
 Languages | Tools
 --------------------------|--------------------------
 <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/><img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/><img align="left" alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img align="left" alt="Kotlin" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/><img align="left" alt="Swift" height="26" src="https://img.icons8.com/fluent/48/000000/swift.png"/>
@@ -61,7 +61,7 @@ Languages | Tools
 
 ## :books: Languages and Tools: :wrench:
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%"><b>Languages<b></td>
     <td width="50%"><b>Tools<b></td>
