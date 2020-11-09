@@ -37,8 +37,7 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
 <br />
 
 ### Languages and Tools:
-<code>
-  <img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<code><img align="left" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img align="left" alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img align="left" alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img align="left" alt="Kotlin" height="26" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
@@ -52,8 +51,7 @@ slack : <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> -->
   <img align="left" alt="Kubernetes" height="26" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
   <img align="left" alt="GitlabCI" height="26" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
   <img align="left" alt="DroneCI" height="26" src="./assets/tools/drone.svg"/>
-  <img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/>
-</code>
+  <img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/></code>
 
 <br />
 
