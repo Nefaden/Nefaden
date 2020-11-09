@@ -23,6 +23,7 @@
 [<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
 
 <br />
+<br />
 
 ## Spotify Playing 🎧
 
@@ -34,15 +35,17 @@
 
   </td>
   <td>
-    <ul>
-      <li>[playlist chill&relax][spotify_chill&relax]</li>
-      <li>[playlist Metal][spotify_metal]</li>
-      <li>[playlist WoW's OST][spotify_wowost]</li>
-    </ul>
+
+  [playlist chill&relax][spotify_chill&relax]
+  [playlist Metal][spotify_metal]
+  [playlist WoW's OST][spotify_wowost]
+
   </td>
 </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+
+<br />
 
 ## Languages and Tools:
 
@@ -59,9 +62,10 @@
 <img align="left" alt="Docker" height="26" src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img align="left" alt="Kubernetes" height="26" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 <img align="left" alt="GitlabCI" height="26" src="https://img.icons8.com/color/48/000000/gitlab.png"/>
-<code><img align="left" alt="DroneCI" height="26" src="./assets/tools/drone.svg"/></code>
-<code><img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/></code>
+<img align="left" alt="DroneCI" height="26" src="./assets/tools/drone.svg"/>
+<img align="left" alt="Scaleway" height="26" src="./assets/tools/scaleway.svg"/>
 
+<br />
 <br />
 
 ## :zap: GitHub Stats and skills
