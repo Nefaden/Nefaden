@@ -27,8 +27,8 @@ t### Hi there, I'm Yann Durand - aka [Nefaden][website] 👋
 
 ## 🎧 Spotify Playing 
 
-<table width="100%" align="center"> 
-  <tr>
+<table align="center"> 
+  <tr align="center">
     <td width="50%"><b>Actually Playing<b></td>
     <td width="50%"><b>Pulbic Playlists<b></td>
   </tr>
@@ -65,7 +65,7 @@ Languages | Tools
 
 ## :books: Languages and Tools: :wrench:
 
-<table width="100%" align="center">
+<table align="center">
   <tr align="center">
     <td width="50%"><b>Languages<b></td>
     <td width="50%"><b>Tools<b></td>
