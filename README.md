@@ -23,6 +23,10 @@
 [<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
 
 <br />
+
+Don't hesitate to take a look on my [blog][blog] !
+
+<br />
 <br />
 
 ## 🎧 Spotify Playing 
@@ -125,6 +129,7 @@ TODO this year !
 [slack]: https://
 [youtube]: https://www.youtube.com/channel/UCwl2xhVlp7POMznBOgcedww
 [website]: https://nefaden.github.io/
+[blog]: https://codewithnefaden.com/
 [spotify_chill&relax]: https://open.spotify.com/playlist/3SWZ5oFiTyHmf0dc2BDOQp
 [spotify_metal]: https://open.spotify.com/playlist/4fPi4z0xDEeuLOroXqGbK6
 [spotify_wowost]: https://open.spotify.com/playlist/3smqCGfMEgIVio0mHEC1a3
