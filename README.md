@@ -1,4 +1,4 @@
-t### Hi there, I'm Yann Durand - aka [Nefaden][website] 👋
+### Hi there, I'm Yann Durand - aka [Nefaden][website] 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/YannDurand11?color=blue&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/nefaden?color=blue&logo=github&style=for-the-badge)
@@ -121,7 +121,7 @@ TODO this year !
 [twitter]: https://twitter.com/YannDurand11 
 [instagram]: https://www.instagram.com/nefa_yann/ 
 [linkedin]: https://www.linkedin.com/in/yann-durand-12456212a/ 
-[discord]: https://discord.gg/VDC6araa
+[discord]: https://discord.gg/QeFjjjaX
 [slack]: https://
 [youtube]: https://www.youtube.com/channel/UCwl2xhVlp7POMznBOgcedww
 [website]: https://nefaden.github.io/
