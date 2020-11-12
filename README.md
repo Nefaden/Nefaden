@@ -120,7 +120,7 @@ TODO this year !
 
 [4CAD]: https://www.4cadgroup.com/
 [twitter]: https://twitter.com/YannDurand11 
-[instagram]: https://www.instagram.com/nefa_yann/ 
+[instagram]: https://www.instagram.com/codewithnefaden/
 [linkedin]: https://www.linkedin.com/in/yann-durand-12456212a/ 
 [discord]: https://discord.gg/QeFjjjaX
 [slack]: https://
