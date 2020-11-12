@@ -10,6 +10,7 @@
 - 👯  I’m looking to being freelance developper (fullstack and devops)
 - :unlock:  2021 Goals: Contribute more to Open Source projects, finish my sandwich course and start my freelance activity
 - :zap: Other facts: I'm playin WoW since seven, I love challenges but now, I'm focusing on development in my free time
+- Don't hesitate to take a look on my [blog][blog] !
 
 <br />
 
@@ -21,10 +22,6 @@
 [<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/youtube.png" />][youtube]
 [<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
 [<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
-
-<br />
-
-Don't hesitate to take a look on my [blog][blog] !
 
 <br />
 <br />
