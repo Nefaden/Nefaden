@@ -6,10 +6,10 @@
 ## :sparkler: I'm a Developer, Gamer and Student !
 ### Who am I ? 
 - :chart_with_upwards_trend: I'm an IoT Developper @ [4CAD][4CAD]
-- 🌱  I’m currently learning Swift and Python
-- 👯  I’m looking to being freelance developper (fullstack and devops)
-- :unlock:  2021 Goals: Contribute more to Open Source projects, finish my sandwich course and start my freelance activity
-- :zap: Other facts: I'm playin WoW since seven, I love challenges but now, I'm focusing on development in my free time
+- 🌱  I’m currently learning React, Swift and Python
+- 👯  I’m looking for my first real professional experience after my sandwich course
+- :unlock:  2022 Goals: Contribute more to Open Source projects and start my blog crossed with my YouTube channel
+- :zap: Other facts: I'm a good videogame player, in time like in skills ;) 
 - Don't hesitate to take a look on my [blog][blog] !
 
 <br />
