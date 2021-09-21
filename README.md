@@ -5,9 +5,9 @@
 
 ## :sparkler: I'm a Developer, Gamer and Student !
 ### Who am I ? 
-- :chart_with_upwards_trend: I'm an IoT Developper @ [4CAD][4CAD]
+- :chart_with_upwards_trend: I'm an IoT Developper @ [Accenture][Accenture]
 - 🌱  I’m currently learning React, Swift and Python
-- 👯  I’m looking for my first real professional experience after my sandwich course
+- 👯  Doing my first professionnal experience !
 - :unlock:  2022 Goals: Contribute more to Open Source projects and start my blog crossed with my YouTube channel
 - :zap: Other facts: I'm a good videogame player, in time like in skills ;) 
 - Don't hesitate to take a look on my [blog][blog] !
@@ -118,7 +118,7 @@ TODO this year !
 
 <br />
 
-[4CAD]: https://www.4cadgroup.com/
+[Accenture]: https://www.accenture.com/fr-fr?c=acn_glb_brandexpressiongoogle_11613278&n=psgs_1020&gclid=CjwKCAjwhaaKBhBcEiwA8acsHK_LFRCOyuBsy_RHDaEi6wg921yxt3BJ9YI9r1vhJrzZXZmbusBsRxoCZPoQAvD_BwE
 [twitter]: https://twitter.com/YannDurand11 
 [instagram]: https://www.instagram.com/codewithnefaden/
 [linkedin]: https://www.linkedin.com/in/yann-durand-12456212a/ 
