@@ -5,7 +5,7 @@
 
 ## :sparkler: I'm a Developer, Gamer and Student !
 ### Who am I ? 
-- :chart_with_upwards_trend: I'm an IoT Developper @ [Accenture][Accenture]
+- :chart_with_upwards_trend: I'm an IoT Developper @[Accenture][Accenture] And teacher for @[Digi Activity][digi-activity]
 - 🌱  I’m currently learning React, Swift and Python
 - 👯  Doing my first professionnal experience !
 - :unlock:  2022 Goals: Contribute more to Open Source projects and start my blog crossed with my YouTube channel
@@ -19,9 +19,9 @@
 [<img width="34px" align="left" alt="nefaden | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img width="34px" align="left" alt="nefaden | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/youtube.png" />][youtube]
-[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
-[<img width="34px" align="left" alt="nefaden | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
+[<img width="34px" align="left" alt="nefaden | Youtube" width="22px" src="https://img.icons8.com/color/48/000000/youtube.png" />][youtube]
+[<img width="34px" align="left" alt="nefaden | Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />][discord]
+[<img width="34px" align="left" alt="nefaden | Slack" width="22px" src="https://img.icons8.com/color/48/000000/slack-new.png" />][slack]
 
 <br />
 <br />
@@ -119,14 +119,15 @@ TODO this year !
 <br />
 
 [Accenture]: https://www.accenture.com/fr-fr?c=acn_glb_brandexpressiongoogle_11613278&n=psgs_1020&gclid=CjwKCAjwhaaKBhBcEiwA8acsHK_LFRCOyuBsy_RHDaEi6wg921yxt3BJ9YI9r1vhJrzZXZmbusBsRxoCZPoQAvD_BwE
+[digi-activity]: https://www.digi-activity.com/
 [twitter]: https://twitter.com/YannDurand11 
 [instagram]: https://www.instagram.com/codewithnefaden/
 [linkedin]: https://www.linkedin.com/in/yann-durand-12456212a/ 
 [discord]: https://discord.gg/QeFjjjaX
 [slack]: https://
 [youtube]: https://www.youtube.com/channel/UCwl2xhVlp7POMznBOgcedww
-[website]: https://nefaden.github.io/
-[blog]: https://codewithnefaden.com/
+[website]: https://codewithnefaden.com/
+[blog]: https://blog.codewithnefaden.com/
 [spotify_chill&relax]: https://open.spotify.com/playlist/3SWZ5oFiTyHmf0dc2BDOQp
 [spotify_metal]: https://open.spotify.com/playlist/4fPi4z0xDEeuLOroXqGbK6
 [spotify_wowost]: https://open.spotify.com/playlist/3smqCGfMEgIVio0mHEC1a3
