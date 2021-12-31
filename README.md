@@ -5,7 +5,7 @@
 
 ## :sparkler: I'm a Developer, Gamer and Student !
 ### Who am I ? 
-- :chart_with_upwards_trend: I'm an IoT Developper @[Accenture][Accenture] And teacher for @[Digi Activity][digi-activity]
+- :chart_with_upwards_trend: I'm a backend Developper @[Accenture][Accenture] And teacher for @[Digi Activity][digi-activity]
 - 🌱  I’m currently learning React, Swift and Python
 - 👯  Doing my first professionnal experience !
 - :unlock:  2022 Goals: Contribute more to Open Source projects and start my blog crossed with my YouTube channel
